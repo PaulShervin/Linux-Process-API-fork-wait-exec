@@ -104,9 +104,9 @@ exit(0);}
 
 
 ## OUTPUT
+<img width="840" height="147" alt="image" src="https://github.com/user-attachments/assets/9eb826dc-de15-4380-9e9b-fe81377d2686" />
 
 
-![alt text](image.png)
 
 
 
@@ -163,9 +163,9 @@ printf("Running ps with execlp. Now with path specified\n");
 
 ## OUTPUT
 
-![alt text](image1.png)  
-![alt text](image2.png)  
-![alt text](image3.png)  
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/60c4b800-72e9-4226-a0af-8b130446455e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/28511805-dde1-49d9-8d50-2de6ec95e49e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9c9c02de-0fc4-4818-ac57-81458ee6ae1a" />
 
 
 
